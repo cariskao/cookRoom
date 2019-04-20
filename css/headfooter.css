@@ -1,0 +1,29 @@
+#nav-top{
+    border-bottom: 1px solid #BAB9B9;
+    padding: 30px 0;
+}
+footer{
+    padding: 30px 0;
+    font-weight: bolder;
+}
+header a,
+footer a{
+    color: black;
+    padding-right: 20px;
+    font-weight: bolder;
+}
+#nav-top a.active,
+footer a.active{
+    color: #FF7123;
+}
+#nav-top input{
+    height: 20px;
+    background: url(../img/search.gif) no-repeat 102% center;
+    margin-top: -5px;
+}
+#nav-top input:focus{
+    width: 200px;
+}
+footer p{
+    margin: 30px 0;
+}

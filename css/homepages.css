@@ -1,0 +1,20 @@
+.imgSize50{
+    width: 50px;
+}
+#bodyLeft div.img-border div.img-border a{
+    padding: 0 5px;
+}
+#bodyLeft span{
+    font-weight: 900;
+    color: #757575;
+    font-size: 15px;
+    padding-right: 5px;
+}
+.addthisBtn{
+    background: url(../img/button_in_cart.gif) no-repeat 0 center;
+    width: 145px;
+    height: 27px;
+}
+.line-height{
+    line-height: 15px;
+}

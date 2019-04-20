@@ -1,0 +1,30 @@
+header table th{
+    width: 320px;
+}
+header table{
+    margin-top: 20px;
+}
+header ul
+{
+    height: 30px;
+    padding: 0;
+}
+header ul li{
+    list-style: none;
+    display: inline-block;
+    float: left;
+    height: 30px;
+    border-right: 1px solid white;
+}
+header ul a{
+    color: white;
+    font-size: 13px;
+    display: inline-block;
+    float: left;
+    height: 30px;
+    line-height: 33px;
+    padding: 0 10px;
+}
+header ul a:hover{
+    background: #C3CE0F;
+}

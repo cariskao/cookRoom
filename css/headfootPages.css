@@ -1,0 +1,42 @@
+/********************************allproducts newproducts****************************************/
+.underlineshowhide{
+    text-decoration: underline !important;
+}
+.underlineshowhide:hover{
+    text-decoration: none !important;
+}
+.line-h{
+    line-height: 15px;
+}
+#bodyLeft span{
+    font-weight: 900;
+    color: #757575;
+    font-size: 15px;
+    padding-right: 5px;
+}
+/********************************contacts faqs****************************************/
+#bodyLeft fieldset{
+    padding: 30px 30px 20px 20px;
+    margin: 20px 0;
+}
+#bodyLeft legend{
+    padding: 20px;
+    color: black;
+    font-weight: bolder;
+}
+#bodyLeft div.img-border{
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#bodyLeft fieldset>div.Label{
+    width: 20%;
+    line-height: 25px;
+}
+#bodyLeft fieldset>div.Input{
+    width: 70%;
+}
+#bodyLeft fieldset input,
+#bodyLeft fieldset textarea{
+    width: 100%;
+}

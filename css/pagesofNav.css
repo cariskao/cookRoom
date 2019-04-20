@@ -1,0 +1,59 @@
+.paddingColor{
+    padding: 20px;
+    color: #757575;
+    line-height: 15px;
+}
+.paddingColor2{
+    padding: 20px;
+    color: white;
+    line-height: 15px;
+}
+#bodyLeft table th.first-child{
+    width: 35%;
+}
+#bodyLeft table th.second-child{
+    width: 60%;
+}
+#bodyLeft table th.third-child{
+    width: 5%;
+}
+#bodyLeft table img{
+    width: 100%;
+}
+#bodyLeft table a{
+    color: black;
+    font-size: 20px;
+}
+#bodyLeft table th{
+    color: black;
+    padding: 10px;
+}
+#bodyLeft table td{
+    padding: 10px;
+}
+#bodyLeft table input{
+    width: 70%;
+}
+#bodyLeft table td.child3rd p{
+    margin-bottom: 40px;
+    color: black;
+    font-size: 10px;
+}
+#bodyLeft table td.child3rd p:before{
+    content: "$";
+}
+#bodyLeft table td input{
+    margin-bottom: 140px;
+}
+#bodyLeft table p.title{
+    margin-top: -20px;
+}
+#bodyLeft table p.content{
+    line-height: 20px;
+}
+#bodyLeft table tr.rowtitle{
+    background: #FAFAFA;
+}
+#bodyLeft table{
+    border-collapse: collapse;
+}
